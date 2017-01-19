@@ -20,6 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/not_fun_button"/>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -27,5 +28,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/this_is_our_git_test_and_now_it_is_100_more_fun" />
+        android:text="@string/Now_with" />
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dropdown"/>
 </LinearLayout>
