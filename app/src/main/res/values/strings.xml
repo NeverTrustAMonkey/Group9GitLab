@@ -4,4 +4,5 @@
     <string name="fun_button">FUN BUTTON</string>
     <string name="not_fun_button">NOT FUN BUTTON</string>
     <string name="final_test_button">This button is the final test.</string>
+    <string name="Now_with">Now with a character select drop down button!</string>
 </resources>
